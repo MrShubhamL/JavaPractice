@@ -8,7 +8,7 @@ public class WhileLoop {
 		Scanner sc = new Scanner(System.in);
 		boolean f = true;
 		do{
-			System.out.println("************ Welcome To Jumanji ***********");
+			System.out.println("************ Welcome To Jumanji ");
 			System.out.println("Choose one of them.");
 			System.out.println("1. View Info");
 			int a = sc.nextInt();
